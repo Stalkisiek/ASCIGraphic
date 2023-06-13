@@ -30,17 +30,3 @@ Prosty generator wyświetlania figur na płótnie. Program czyta plik konfigurac
 
 5. ASCII art zostanie wygenerowany i zapisany w określonym pliku wynikowym. Program wyświetli wiadomość wskazującą lokalizację zapisanego pliku.
 
-## Przykład
-
-Poniżej znajduje się przykład pliku konfiguracyjnego (`config.txt`) oraz wynikowego ASCII art:
-
-\*config\*
-40 10
-output.txt
-.
-Square
-2 2 5 +
-Rectangle
-10 4 7 3 #
-Circle
-21 6 2 @
