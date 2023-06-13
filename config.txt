@@ -1,0 +1,9 @@
+40 10
+output.txt
+.
+Square
+2 2 5 +
+Rectangle
+10 4 7 3 #
+Circle
+21 6 2 @
