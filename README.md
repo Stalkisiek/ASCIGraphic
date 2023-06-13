@@ -1,6 +1,6 @@
-# Generator ASCII Art
+# ASCIGRAPHIC
 
-To jest prosty generator ASCII art zaimplementowany w języku C++. Program czyta plik konfiguracyjny zawierający informacje o rozmiarze płótna, nazwie pliku wynikowego oraz figurach do narysowania. Program obsługuje rysowanie prostokątów i okręgów na płótnie.
+Prosty generator wyświetlania figur na płótnie. Program czyta plik konfiguracyjny zawierający informacje o rozmiarze płótna, nazwie pliku wynikowego oraz figurach do narysowania. Program obsługuje rysowanie prostokątów (w tym też kwadratów) i okręgów na płótnie.
 
 ## Jak używać
 
