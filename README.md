@@ -8,10 +8,10 @@ Prosty generator wyświetlania figur na płótnie. Program czyta plik konfigurac
 2. Skompiluj kod
    g++ main.cpp -o a
 3. Utwórz plik konfiguracyjny o następującym formacie:
-   <szerokość_płótna> <wysokość_płótna> <nazwa_pliku_wynikowego> <symbol_pustego_miejsca>
-   <typ_figury> <dane_figury>
-   <typ_figury> <dane_figury>
-   ...
+   `<szerokość_płótna> <wysokość_płótna> <nazwa_pliku_wynikowego> <symbol_pustego_miejsca>
+   `<typ_figury> <dane_figury>
+   `<typ_figury> <dane_figury>
+   `...
 
 - `<szerokość_płótna>` i `<wysokość_płótna>` określają rozmiar płótna w znakach.
 - `<nazwa_pliku_wynikowego>` to nazwa pliku, w którym zostanie zapisany ASCII art.
