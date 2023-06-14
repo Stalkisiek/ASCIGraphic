@@ -12,7 +12,7 @@ Prosty generator wyświetlania figur na płótnie. Program czyta plik konfigurac
 - <typ_figury> <dane_figury>
 - <typ_figury> <dane_figury>
 - ...
-**Wytłumaczenie**
+4. **Wytłumaczenie**
 - `<szerokość_płótna>` i `<wysokość_płótna>` określają rozmiar płótna w znakach.
 - `<nazwa_pliku_wynikowego>` to nazwa pliku, w którym zostanie zapisany ASCII art.
 - `<symbol_pustego_miejsca>` to symbol używany dla pustych miejsc na płótnie.
@@ -23,10 +23,10 @@ Prosty generator wyświetlania figur na płótnie. Program czyta plik konfigurac
   - Dla okręgu: `<środek_x> <środek_y> <promień> <symbol>` (współrzędne środka, promień i symbol)
 - Każda figura powinna być umieszczona w nowej linii.
 
-4. Uruchom program i podaj ścieżkę do pliku konfiguracyjnego jako argument wiersza poleceń:
+5. Uruchom program i podaj ścieżkę do pliku konfiguracyjnego jako argument wiersza poleceń:
    ./a <plik_konfiguracyjny>
 
 - `<plik_konfiguracyjny>` to ścieżka do pliku konfiguracyjnego utworzonego we wcześniejszym kroku.
 
-5. ASCII art zostanie wygenerowany i zapisany w określonym pliku wynikowym. Program wyświetli wiadomość wskazującą lokalizację zapisanego pliku.
+6. ASCII art zostanie wygenerowany i zapisany w określonym pliku wynikowym. Program wyświetli wiadomość wskazującą lokalizację zapisanego pliku.
 
