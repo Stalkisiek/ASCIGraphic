@@ -12,7 +12,7 @@ Prosty generator wyświetlania figur na płótnie. Program czyta plik konfigurac
 - <typ_figury> <dane_figury>
 - <typ_figury> <dane_figury>
 - ...
-
+**Wytłumaczenie**
 - `<szerokość_płótna>` i `<wysokość_płótna>` określają rozmiar płótna w znakach.
 - `<nazwa_pliku_wynikowego>` to nazwa pliku, w którym zostanie zapisany ASCII art.
 - `<symbol_pustego_miejsca>` to symbol używany dla pustych miejsc na płótnie.
